@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MovieDagger</string>
+    <string name="alert_title">Hata</string>
+    <string name="yes">Evet</string>
+    <string name="no">Hayır</string>
+    <string name="ok">TAMAM</string>
+
+
+    <string name="title_genes">Film Türleri</string>
+    <string name="title_movie">Filmler</string>
+    <string name="title_main">My income</string>
+    <string name="detail_caption_star_vote">YILDIZ</string>
+    <string name="detail_caption_date">TARIH</string>
+    <string name="detail_caption_puan">PUAN</string>
+    <string name="action_back">Back</string>
+</resources>
